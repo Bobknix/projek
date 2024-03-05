@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709472407 source:c:\users\zmerk\documents\programavimas\projektas\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
